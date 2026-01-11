@@ -12,14 +12,14 @@ Welcome to my GitHub profile!
 
 I'm a passionate developer who loves exploring new technologies and building innovative projects. I have a strong interest in web development, data science, and open-source contributions. 
 
-- 🌱 Currently learning: Machine Learning and Cloud Computing
+- 🌱 Currently learning: getting deeper in my java full stack
 - 💼 Working on: Personal projects and contributing to open-source
-- 💬 Ask me about: Web development, Python, and JavaScript
+- 💬 Ask me about: Web development, Java full stack and JavaScript
 - 📫 How to reach me: [Email](mailto:mitheeledke@example.com) | [LinkedIn](https://www.linkedin.com/in/mitheeledke)
 
 ## Skills
 
-- **Languages**: Python, JavaScript, HTML, CSS, SQL, Java
+- **Languages**:  Java, JavaScript, HTML, CSS, SQL, Python
 - **Frameworks/Libraries**: React, Node.js, Express
 - **Tools**: Git 
 
