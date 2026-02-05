@@ -10,11 +10,11 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a passionate developer who loves exploring new technologies and building innovative projects. I have a strong interest in web development, data science, and open-source contributions. 
+I'm a passionate developer who loves exploring new technologies and building innovative projects. I have a strong interest in Software development, and open-source contributions. 
 
-- 🌱 Currently learning: getting deeper in my java full stack
+- 🌱 Currently learning: getting deeper in java full stack
 - 💼 Working on: Personal projects and contributing to open-source
-- 💬 Ask me about: Web development, Java full stack and JavaScript
+- 💬 Ask me about: web development, Java full stack
 - 📫 How to reach me: [Email](mailto:mitheeledke@example.com) | [LinkedIn](https://www.linkedin.com/in/mitheeledke)
 
 ## Skills
